@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Chinwike, a web developer living in Abuja, Nigeria. I write a lot of JavaScript and love to share my learning online on the [LogRocket blog](https://blog.logrocket.com/author/chinwikemaduabuchi/). Let's create software together!
+
 <!--
 **Chinwike1/Chinwike1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
