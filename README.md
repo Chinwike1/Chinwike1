@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Chinwike Maduabuchi (he/him), a digital creator living in Abuja, Nigeria. I write a lot of JavaScript and enjoy sharing my learning online. Let's connect!
+I'm Chinwike Maduabuchi (he/him), an application developer and digital creator living in Abuja, Nigeria. I write a lot of JavaScript and enjoy sharing my learning online. Let's connect!
 
-[Website](https://chinwike.space) ● [Writings](https://blog.logrocket.com/author/chinwikemaduabuchi/)
+[Website](https://chinwike.space) ● [Blog](https://chinwike.space/blog)
 
 <!--
 **Chinwike1/Chinwike1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
