@@ -1,20 +1,14 @@
 ### Hi there 👋
 
-I'm Chinwike Maduabuchi (he/him), an application developer and digital creator living in Abuja, Nigeria. I write a lot of JavaScript and enjoy sharing my learning online. Let's connect!
+I'm Anthony, a software developer focused on creating interactive web and mobile applications. I write a lot of JS/TS, React and Node and I enjoy sharing what I find on my [blog](https://chinwike.space/blog).
 
-[Website](https://chinwike.space) ● [Blog](https://chinwike.space/blog)
-
-<!--
-**Chinwike1/Chinwike1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Work: Currently looking for Remote Frontend/Fullstack Postions
+- 🌱 Actively learning: React Native, Solidity 
+- 👯 I’m looking to collaborate on: Fullstack React, Mobile or Web3 projects
+- 💬 Ask me about: Web & Mobile Dev, Interaction Design 
+- 😄 Pronouns: he/him
+- 🌐 Find me here: [chinwike.space](https://chinwike.space) 
+<!--- 
+**[Subscribe to Newsletter]()**
+**[Shop Developer Swag]()**
+ -->
