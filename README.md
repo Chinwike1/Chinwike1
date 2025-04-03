@@ -4,8 +4,8 @@ I'm Anthony, a software developer focused on creating interactive web and mobile
 
 - 😄 Pronouns: he/him
 - 🌐 Find me here: [chinwike.space](https://chinwike.space) 
-- 💼 Work: Currently looking for Remote Frontend/Fullstack Postions
-- 🌱 Actively learning: React Native, Solidity 
+- 💼 Work: Currently looking for Remote Frontend/Fullstack Positions
+- 🌱 Actively learning: DevOps, React Native & AI SDK,  
 - 👯 I’m looking to collaborate on: Fullstack React, Mobile or Web3 projects
 - 💬 Ask me about: Web & Mobile Dev, Interaction Design 
 <!--- 
